@@ -1,7 +1,7 @@
 # Boxxduino
 Boxxduino is an open source Boxx-style Nintendo Switch Controller
 
-Currently, the code has an issue of the Right Stick (C-stick) not being recognized.
+**Currently, the code has an issue of the Right Stick (C-stick) not being recognized.**
 
 The code is based on Colpasus' UnoSmashbox project. See (https://github.com/colpasus/UnoSmashbox)  
 This project also uses the Unojoy hex file created by AlanCatham.  
